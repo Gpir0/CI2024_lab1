@@ -10,22 +10,22 @@ I searched (using Copilot) which function is used in literature to transform sco
 
 
 
-RESULTS
+RESULTS (cost)
 
 100  10  0.2   <br>
-286.437      6.3 s   out_it=30   in_it=1000 
+286.437    out_it=30   in_it=1000 
 
 1000 100 0.2 <br>
-10587.550      10.1 s   out_it=30   in_it=1000  
+10587.550     out_it=30   in_it=1000  
 
 10000 100 0.2  <br>
-117930.432     32.6 s   out_it=30   in_it=1000
+117930.432     out_it=30   in_it=1000
 
 100000 10000 0.1 <br>
-1851363.949  9 min 42.2 s  out_it=30 in_it=1000
+1851363.949    out_it=30 in_it=1000
 
 100000 10000 0.2 <br>
-2034141.269  10 min 49.3 s  out_it=30 in_it=1000
+2034141.269    out_it=30 in_it=1000
 
 100000 10000 0.3 <br>
-2012269.240 11 min 7.5 s  out_it=30 in_it=1000
+2012269.240   out_it=30 in_it=1000
